@@ -2,7 +2,7 @@
 
 # What
 
-This library does what `robogaia_4_relay_raspberry_plate_v*_code_install.tar.gz` does, but in python.
+This library controls any version of the Robogaia 4 Relay Board (http://www.robogaia.com/4-relays-raspberry-pi-plateshield.html), on any version of the Raspberry Pi, in python, using GPIO.  It is likely highly adaptable to other relay boards as well.
 
 # Progress
 
@@ -29,4 +29,6 @@ This works. It could probably use some tweaks, but it works.
 <tr><td>Raspberry Pi Model B+<td>2
 </table>
 
+# License
 
+This is such a small amount of code that it hardly seems to matter, but this software is licensed as GPL 2, GPL 3, or BSD 3-Clause. See the LICENSE file for details.
