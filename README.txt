@@ -6,7 +6,7 @@ This library does what `robogaia_4_relay_raspberry_plate_v*_code_install.tar.gz`
 
 # Progress
 
-This is NOT DONE.
+This works. It could probably use some tweaks, but it works.
 
 # HOWTO
 

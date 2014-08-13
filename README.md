@@ -8,7 +8,7 @@ This library does what `robogaia_4_relay_raspberry_plate_v*_code_install.tar.gz`
 <A name="toc1-7" title="Progress" />
 # Progress
 
-This is NOT DONE.
+This works. It could probably use some tweaks, but it works.
 
 <A name="toc1-12" title="HOWTO" />
 # HOWTO
