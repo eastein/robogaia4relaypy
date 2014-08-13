@@ -15,7 +15,7 @@ PINMAP = {
 	}
 }
 
-class RelayBoard(object) :
+class Board(object) :
 	PINMAP = None
 	RELAYSTATE = {1: None, 2: None, 3: None, 4: None}
 
